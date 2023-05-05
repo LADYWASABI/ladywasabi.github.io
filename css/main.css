@@ -1102,7 +1102,7 @@
   border: none;
   border-radius: 0.1875rem;
   padding: 11px 22px;
-  cursor: pointer;
+  cursor:cell;
   background-color: #5F264A;
   color: #FFFFFF; }
   .btn:hover, .btn:focus, .btn:active, .btn.active, .btn:active:focus, .btn:active:hover, .btn.active:focus, .btn.active:hover,
@@ -2350,7 +2350,7 @@ body {
   width: 22px;
   height: 1px;
   border-radius: 1px;
-  background: #FFFFFF; }
+  background: #ffffff; }
   .button-bar + .button-bar {
     margin-top: 7px; }
   .button-bar:nth-child(2) {
@@ -2565,7 +2565,8 @@ body {
     width: 37px;
     height: 27px;
     outline: 0;
-    cursor: pointer; }
+    cursor: pointer; 
+  }
     .navbar .navbar-toggler.navbar-toggler-left {
       position: relative;
       left: 0;
@@ -4201,8 +4202,9 @@ Created using IcoMoon - icomoon.io
     position: relative;
     width: 22px;
     height: 1px;
-    border-radius: 1px;
-    background: #FFFFFF; }
+    border-radius: 10px;
+    background-color:yellowgreen; }
+
     .sidebar-collapse .navbar .navbar-toggler-bar + .navbar-toggler-bar {
       margin-top: 7px; }
     .sidebar-collapse .navbar .navbar-toggler-bar.bar2 {
@@ -4685,7 +4687,7 @@ Created using IcoMoon - icomoon.io
     width: 22px;
     height: 1px;
     border-radius: 1px;
-    background: #FFFFFF; }
+    background:#FFFFFF; }
     .burger-menu .navbar .navbar-toggler-bar + .navbar-toggler-bar {
       margin-top: 7px; }
     .burger-menu .navbar .navbar-toggler-bar.bar2 {
